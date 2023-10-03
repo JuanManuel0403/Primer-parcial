@@ -1,0 +1,51 @@
+body{
+    background-image: url(../Multimedia/IMG/Fondo\ Info.jpg);
+    background-size: cover;
+    background-repeat: no-repeat ;
+}
+
+#back{
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 3%;
+    margin-right: 4%;
+
+}
+
+#title{
+    color: rgb(236, 5, 5);
+    text-shadow: 0px 4px 4px rgb(247, 247, 247);
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 35%;
+}
+a{
+    text-decoration-line:  none;
+    margin-left: 8.5%;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+#info{
+    color: aqua;
+    text-align: center;
+    font-family: Jomolhari;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 5%;
+}
+#subtitulo{
+    color: rgb(245, 5, 5);
+    text-shadow: 0px 4px 4px rgb(247, 247, 247);
+}
